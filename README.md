@@ -126,8 +126,11 @@ git --version
 
 ## 최종 체크리스트
 
-설치 완료 후 아래 3가지가 모두 ✅ 되어야 핸즈온 당일 바로 시작할 수 있습니다.
+설치 완료 후 아래 4가지가 모두 ✅ 되어야 핸즈온 당일 바로 시작할 수 있습니다.
 
 - [ ] claude.ai 에서 Pro 구독 활성화 확인
 - [ ] Claude Desktop 앱 로그인 완료
 - [ ] PowerShell(또는 Windows Terminal)에서 `git --version` 실행 시 버전 출력
+- [ ] Appstore/Playstore 에서 2개의 App 다운받기: Github 앱과, 인증을 위한 Google Authenticator, Authy, Microsoft Authenticator 중 1 선택해서 깔아놓기만 함
+<img width="2330" height="70" alt="image" src="https://github.com/user-attachments/assets/f6320842-cd13-482f-a5ca-9f244c6abb0d" />
+
