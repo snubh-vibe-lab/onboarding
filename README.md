@@ -132,5 +132,7 @@ git --version
 - [ ] Claude Desktop 앱 로그인 완료
 - [ ] PowerShell(또는 Windows Terminal)에서 `git --version` 실행 시 버전 출력
 - [ ] Appstore/Playstore 에서 2개의 App 다운받기: Github 앱과, 인증을 위한 Google Authenticator, Authy, Microsoft Authenticator 중 1 선택해서 깔아놓기만 함
-<img width="2330" height="70" alt="image" src="https://github.com/user-attachments/assets/f6320842-cd13-482f-a5ca-9f244c6abb0d" />
+
+      
+
 
