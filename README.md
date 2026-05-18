@@ -9,7 +9,7 @@
 - **A. 클로드 (Claude)** — Claude Desktop 앱 안의 코드 실행 기능을 사용
 - **B. 코덱스 (ChatGPT)** — cmd(명령 프롬프트)에서 Codex CLI 사용
 
-강사 시연은 Claude 기준으로 진행되지만, ChatGPT 사용자는 Codex CLI로 같은 워크플로우를 따라갈 수 있습니다. 가능하면 두 경로 모두 깔아두시는 것을 권장합니다.
+강사 시연은 Claude 기준으로 진행되지만, ChatGPT 사용자는 Codex CLI로 같은 워크플로우를 따라갈 수 있습니다.  
 
 **예상 소요 시간:** 경로당 10~20분
 
