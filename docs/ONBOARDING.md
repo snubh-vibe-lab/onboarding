@@ -79,6 +79,7 @@ data: synthetic
 
 **`specialty` 는 이 중 하나만 골라 적으세요:**
 `radiology` `cardiology` `surgery` `pathology` `gyn-onc` `ent` `dentistry` `psychiatry` `oncology`
+`neurology` `neurosurgery` `ophthalmology` `anesthesiology` `pediatrics` `rehab` `family_med`
 (어디에도 안 맞으면 `shared`)
 
 > 더 자세히 쓰고 싶으면 Cookbook의 `recipes/_TEMPLATE/recipe.md` 에 전체 양식이 있어요. 위 최소 양식만으로도 충분합니다.
